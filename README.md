@@ -5,6 +5,6 @@ Feel free to copy, but remember to understand it before you submit it so you lea
 
 I will update asap :D
 
-Contact me if you really cannot understand the code!
+Post an issue if my code isn't working anymore!
 
 Good luck playing with leetcode ヽ(●´∀`●)ﾉ
